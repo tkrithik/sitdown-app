@@ -207,3 +207,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ for food lovers everywhere**
 
 *Discover restaurants, connect with friends, and plan your next amazing meal with SitDown!*
+
+
+
+TO DO:
+Check for any bugs after initial commit.
+Need to make chat functionality better, need to test with two real users and see how chat will work. Need to install that functionality.
