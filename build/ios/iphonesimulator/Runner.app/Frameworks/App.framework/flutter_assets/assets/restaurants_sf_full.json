@@ -1,0 +1,174 @@
+[
+  {
+    "id": "zuni-cafe",
+    "name": "Zuni Caf\u00e9",
+    "cuisine": "Californian",
+    "address": "1658 Market St, San Francisco, CA",
+    "lat": 37.7731,
+    "lon": -122.421,
+    "price": "$$$",
+    "rating": 4.6,
+    "ratingCount": 2910,
+    "opensAt": "Opens at 11:30am",
+    "tags": [
+      "great atmosphere",
+      "delicious food",
+      "outdoor dining"
+    ],
+    "imageUrl": "https://source.unsplash.com/featured/?californian+restaurant+san+francisco"
+  },
+  {
+    "id": "house-of-prime-rib",
+    "name": "House of Prime Rib",
+    "cuisine": "Steakhouse",
+    "address": "1906 Van Ness Ave, San Francisco, CA",
+    "lat": 37.7936,
+    "lon": -122.4222,
+    "price": "$$$",
+    "rating": 4.7,
+    "ratingCount": 12000,
+    "opensAt": "Opens at 5:00pm",
+    "tags": [
+      "classic",
+      "pricey",
+      "excellent service"
+    ],
+    "imageUrl": "https://source.unsplash.com/featured/?steakhouse+restaurant"
+  },
+  {
+    "id": "swan-oyster-depot",
+    "name": "Swan Oyster Depot",
+    "cuisine": "Seafood",
+    "address": "1517 Polk St, San Francisco, CA",
+    "lat": 37.7908,
+    "lon": -122.4202,
+    "price": "$$",
+    "rating": 4.6,
+    "ratingCount": 8000,
+    "opensAt": "Opens at 10:30am",
+    "tags": [
+      "fresh seafood",
+      "counter service"
+    ],
+    "imageUrl": "https://source.unsplash.com/featured/?seafood+oyster"
+  },
+  {
+    "id": "nopa",
+    "name": "Nopa",
+    "cuisine": "Californian",
+    "address": "560 Divisadero St, San Francisco, CA",
+    "lat": 37.7749,
+    "lon": -122.4376,
+    "price": "$$$",
+    "rating": 4.6,
+    "ratingCount": 5000,
+    "opensAt": "Opens at 5:00pm",
+    "tags": [
+      "late night",
+      "wood-fired"
+    ],
+    "imageUrl": "https://source.unsplash.com/featured/?modern+restaurant+interior"
+  },
+  {
+    "id": "liholiho-yacht-club",
+    "name": "Liholiho Yacht Club",
+    "cuisine": "Hawaiian",
+    "address": "871 Sutter St, San Francisco, CA",
+    "lat": 37.7887,
+    "lon": -122.4149,
+    "price": "$$$",
+    "rating": 4.6,
+    "ratingCount": 3200,
+    "opensAt": "Opens at 5:00pm",
+    "tags": [
+      "vibrant",
+      "shared plates"
+    ],
+    "imageUrl": "https://source.unsplash.com/featured/?hawaiian+food"
+  },
+  {
+    "id": "kokkari-estiatorio",
+    "name": "Kokkari Estiatorio",
+    "cuisine": "Greek",
+    "address": "200 Jackson St, San Francisco, CA",
+    "lat": 37.7979,
+    "lon": -122.3997,
+    "price": "$$$",
+    "rating": 4.7,
+    "ratingCount": 9500,
+    "opensAt": "Opens at 11:30am",
+    "tags": [
+      "great atmosphere",
+      "pricey"
+    ],
+    "imageUrl": "https://source.unsplash.com/featured/?greek+restaurant"
+  },
+  {
+    "id": "flour-water",
+    "name": "Flour + Water",
+    "cuisine": "Italian",
+    "address": "2401 Harrison St, San Francisco, CA",
+    "lat": 37.7574,
+    "lon": -122.412,
+    "price": "$$$",
+    "rating": 4.5,
+    "ratingCount": 4000,
+    "opensAt": "Opens at 5:00pm",
+    "tags": [
+      "pasta",
+      "pricey"
+    ],
+    "imageUrl": "https://source.unsplash.com/featured/?italian+pasta+restaurant"
+  },
+  {
+    "id": "pizzeria-delfina",
+    "name": "Pizzeria Delfina",
+    "cuisine": "Pizza",
+    "address": "3611 18th St, San Francisco, CA",
+    "lat": 37.7617,
+    "lon": -122.4241,
+    "price": "$$",
+    "rating": 4.5,
+    "ratingCount": 3800,
+    "opensAt": "Opens at 11:30am",
+    "tags": [
+      "neapolitan",
+      "casual"
+    ],
+    "imageUrl": "https://source.unsplash.com/featured/?pizza+neapolitan"
+  },
+  {
+    "id": "udupi-palace",
+    "name": "Udupi Palace",
+    "cuisine": "Indian",
+    "address": "1007 Valencia St, San Francisco, CA",
+    "lat": 37.7577,
+    "lon": -122.4217,
+    "price": "$$",
+    "rating": 4.3,
+    "ratingCount": 2000,
+    "opensAt": "Opens at 11:30am",
+    "tags": [
+      "dosas",
+      "vegetarian"
+    ],
+    "imageUrl": "https://source.unsplash.com/featured/?indian+dosa"
+  },
+  {
+    "id": "akiko",
+    "name": "Akiko's",
+    "cuisine": "Sushi",
+    "address": "430 Folsom St, San Francisco, CA",
+    "lat": 37.7861,
+    "lon": -122.3954,
+    "price": "$$$",
+    "rating": 4.7,
+    "ratingCount": 2200,
+    "opensAt": "Opens at 5:00pm",
+    "tags": [
+      "omakase",
+      "fresh"
+    ],
+    "imageUrl": "https://source.unsplash.com/featured/?sushi+omakase"
+  }
+]
