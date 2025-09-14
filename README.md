@@ -51,7 +51,7 @@ A modern **Flutter** app that focuses on restaurant discovery with a polished na
 
 ```bash
 # 1) Clone
-git clone https://github.com/yourusername/sitdown-flutter.git
+git clone https://github.com/tkrithik/sitdown-app
 cd sitdown-flutter
 
 # 2) Get packages
